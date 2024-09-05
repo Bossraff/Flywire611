@@ -9,6 +9,10 @@ body {
   overflow: hidden; /* Prevent scrolling of the main-content itself */
 }
 
+body.no-scroll {
+  overflow: hidden;
+}
+
 header {
   background: transparent;
   color: black;
