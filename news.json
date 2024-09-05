@@ -1,0 +1,46 @@
+{
+  "newsArticles": [
+    {
+      "title": "🎉 Happy Birthday from the Flywire Team! 🎉",
+      "date": "August 30, 2024",
+      "content": "Happy Birthday! Wishing you a day filled with love, joy, and wonderful moments. May your year ahead be full of happiness and success!",
+      "image": "Assets/kyle.png"
+    },
+    {
+      "title": "Operational Manager Conducts Interviews for New Agents, OICs, and Team Leaders",
+      "date": "August 9, 2024",
+      "content": "Our Operational Manager is currently holding a series of interviews aimed at recruiting new agents, Officers-in-Charge (OICs), and Team Leaders (TLs). This initiative is part of our ongoing efforts to build a stronger and more efficient team, ensuring that we continue to deliver top-notch service and meet our organizational goals. The selection process is expected to bring in highly skilled professionals who will contribute to the company's growth and success.",
+      "image": "Assets/Interview.jpg"
+    },
+    {
+      "title": "🎉 Happy Birthday from the Flywire Team! 🎉",
+      "date": "August 1, 2024",
+      "content": "Happy Birthday! Wishing you a day filled with love, joy, and wonderful moments. May your year ahead be full of happiness and success!",
+      "image": "Assets/cathy.jpg"
+    },
+    {
+      "title": "🎉 Happy Birthday from the Flywire Team! 🎉",
+      "date": "July 29, 2024",
+      "content": "On your special day, we want to extend our warmest wishes to you. May your year ahead be filled with joy, success, and wonderful moments. Thank you for being an integral part of our journey. We hope your birthday is as amazing as you are, surrounded by loved ones and unforgettable celebrations. Cheers to another fantastic year!",
+      "image": "Assets/Bday.jpg"
+    },
+    {
+      "title": "Hiring new OIC's",
+      "date": "July 29, 2024",
+      "content": "According to Mr. Renato Feria, the Operational Manager of Flywire, he is looking for ten candidates, and six will be chosen to become part of the team as Officers-in-Charge (OIC). For further information, you can reach out to TL Michelle D. Pantujan.",
+      "image": "Assets/Hiring.jpg"
+    },
+    {
+      "title": "Hiring new Team Leader's",
+      "date": "July 29, 2024",
+      "content": "According to Mr. Renato Feria, the Operational Manager of Flywire, he is looking for ten candidates, and six will be chosen to fill the position of Team Leader. For further information, you can reach out to TL Michelle D. Pantujan.",
+      "image": "Assets/Hiring1.jpg"
+    },
+    {
+      "title": "News Title 3",
+      "date": "July 27, 2024",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+      "image": "news3.jpg"
+    }
+  ]
+}

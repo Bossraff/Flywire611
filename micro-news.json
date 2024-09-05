@@ -1,0 +1,29 @@
+{
+  "microNewsItems": [
+    {
+      "title": "VOLLEYBALL",
+      "time": "4pm-5pm AUGUST 4, 2024 (SUNDAY)",
+      "details": "OM IRENE vs OM RENATO"
+    },
+    {
+      "title": "DOTA2",
+      "time": "12nn-2pm AUGUST 4, 2024 (SUNDAY)",
+      "details": "OM IRENE vs OM RENATO"
+    },
+    {
+      "title": "BASKETBALL",
+      "time": "12nn - 1pm AUGUST 3, 2024 (SATURDAY)",
+      "details": "OM MOGAN vs OM RENATO"
+    },
+    {
+      "title": "BILLIARDS",
+      "time": "2pm - 3pm AUGUST 3, 2024 (SATURDAY) 10 BALLS DOUBLES",
+      "details": "ADMIN VS OM RENATO"
+    },
+    {
+      "title": "MOBILE LEGENDS",
+      "time": "12pm - 1pm AUGUST 4, 2024 (SUNDAY)",
+      "details": "OM IRENE vs OM RENATO"
+    }
+  ]
+}
