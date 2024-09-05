@@ -1,6 +1,12 @@
 {
   "newsArticles": [
     {
+      "title": "🏆 Flywire Team Building Event 2024 🏆",
+      "date": "Nov 29 or Dec 06, 2024",
+      "content": "Exciting news! The annual Flywire Team Building event is happening this September or November! Join us for a day full of fun, collaboration, and bonding. Be ready for a series of team challenges, exciting activities, and memorable moments with your colleagues.",
+      "image": "Assets/teambuilding.png"
+    },
+    {
       "title": "🎉 Happy Birthday from the Flywire Team! 🎉",
       "date": "August 30, 2024",
       "content": "Happy Birthday! Wishing you a day filled with love, joy, and wonderful moments. May your year ahead be full of happiness and success!",
@@ -35,12 +41,7 @@
       "date": "July 29, 2024",
       "content": "According to Mr. Renato Feria, the Operational Manager of Flywire, he is looking for ten candidates, and six will be chosen to fill the position of Team Leader. For further information, you can reach out to TL Michelle D. Pantujan.",
       "image": "Assets/Hiring1.jpg"
-    },
-    {
-      "title": "News Title 3",
-      "date": "July 27, 2024",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
-      "image": "news3.jpg"
     }
+  
   ]
 }
