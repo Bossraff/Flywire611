@@ -1,29 +1,34 @@
 {
   "microNewsItems": [
     {
-      "title": "VOLLEYBALL",
-      "time": "4pm-5pm AUGUST 4, 2024 (SUNDAY)",
-      "details": "OM IRENE vs OM RENATO"
+      "title": "Team Building Event 2024 ",
+      "time": "",
+      "details": "On Going Discussions"
     },
     {
-      "title": "DOTA2",
-      "time": "12nn-2pm AUGUST 4, 2024 (SUNDAY)",
-      "details": "OM IRENE vs OM RENATO"
+      "title": "Holiday: National Heroes' Day",
+      "time": "September 16, 2024",
+      "details": "A day to honor and celebrate the nation's heroes."
     },
     {
-      "title": "BASKETBALL",
-      "time": "12nn - 1pm AUGUST 3, 2024 (SATURDAY)",
-      "details": "OM MOGAN vs OM RENATO"
+      "title": "Holiday: Halloween",
+      "time": "October 31, 2024",
+      "details": "A spooky celebration with costumes and treats!"
     },
     {
-      "title": "BILLIARDS",
-      "time": "2pm - 3pm AUGUST 3, 2024 (SATURDAY) 10 BALLS DOUBLES",
-      "details": "ADMIN VS OM RENATO"
+      "title": "Holiday: All Saints' Day",
+      "time": "November 1, 2024",
+      "details": "A day to remember and honor the saints."
     },
     {
-      "title": "MOBILE LEGENDS",
-      "time": "12pm - 1pm AUGUST 4, 2024 (SUNDAY)",
-      "details": "OM IRENE vs OM RENATO"
+      "title": "Holiday: Christmas Day",
+      "time": "December 25, 2024",
+      "details": "Merry Christmas! Celebrate with family and friends."
+    },
+    {
+      "title": "Holiday: New Year's Eve",
+      "time": "December 31, 2024",
+      "details": "Countdown to the new year!"
     }
   ]
 }
